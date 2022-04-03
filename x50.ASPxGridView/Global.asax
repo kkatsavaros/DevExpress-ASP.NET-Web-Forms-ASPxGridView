@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="x50.ASPxGridView.Global_asax" Language="C#" %>
